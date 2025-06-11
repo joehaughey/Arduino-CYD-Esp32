@@ -1,7 +1,7 @@
 Accurate Frequency Meter
 
 simply download the sketch and follow the Arduino ide using ESP32 Dev environment
-you may have to unplug the usb and reinsert, 
+you may have to unplug the usb and reinsert after download,  remember it is a real meter that reads real signals,  and remember to add .ino to the sketch if required,  raw etc
 
 you won't see the waterfall or the frequency in hertz binary and hexadecimal until,  you connect the extended io,  in my case a blue dupont wire,  the blue one is the input and the other the RX,  the two other dupont wires are powering an external connection,  but in our case we only want the Frequency of a Signal not a lot of 555 timer sensors,  though they are possable
 
